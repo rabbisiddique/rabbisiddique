@@ -23,7 +23,7 @@ I'm a Full-Stack Developer who builds fast, modern, and impactful web experience
 const rabi = {
   role: "Full-Stack Developer & AI Architect",
   focus: ["AI-Powered Web Apps", "SaaS Products", "Automation Tools"],
-  learning: ["Advanced AI/ML", "Web3", "Cloud Architecture"],
+  learning: ["Advanced AI/ML"],
   philosophy: "Code with passion · Design with purpose · Build with AI"
 };
 ```
@@ -39,7 +39,7 @@ const rabi = {
 `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Prisma` `Mongoose`
 
 **AI & Integrations**
-`OpenAI` `Anthropic Claude` `Gemini` `LangChain` `TensorFlow`
+`OpenAI` `Anthropic Claude` `Gemini`
 
 **DevOps & Tools**
 `Docker` `Firebase` `Git`
